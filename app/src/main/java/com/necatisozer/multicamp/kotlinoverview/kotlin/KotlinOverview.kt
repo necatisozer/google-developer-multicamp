@@ -1,4 +1,4 @@
-package com.necatisozer.multicamp.kotlinoverview
+package com.necatisozer.multicamp.kotlinoverview.kotlin
 
 fun main() {
     // println("Hello World!")

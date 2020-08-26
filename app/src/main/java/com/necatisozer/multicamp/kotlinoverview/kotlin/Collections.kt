@@ -1,4 +1,4 @@
-package com.necatisozer.multicamp.kotlinoverview
+package com.necatisozer.multicamp.kotlinoverview.kotlin
 
 fun main() {
     val set= mutableSetOf(1, 2, 3, 1, 5, 9)

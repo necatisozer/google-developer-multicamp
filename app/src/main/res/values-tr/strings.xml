@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidUygulama</string>
+    <string name="greeting_text">Merhaba Dünya</string>
+    <string name="main_button">HoşBirButon</string>
+    <string name="button_action">Buton tıklandı</string>
+</resources>

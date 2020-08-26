@@ -1,4 +1,4 @@
-package com.necatisozer.multicamp.kotlinoverview
+package com.necatisozer.multicamp.kotlinoverview.kotlin
 
 fun main() {
     val toplam = topla(3.1, 6.2, 0.1, 4.4)

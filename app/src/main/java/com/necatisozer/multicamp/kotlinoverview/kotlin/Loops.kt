@@ -1,4 +1,4 @@
-package com.necatisozer.multicamp.kotlinoverview
+package com.necatisozer.multicamp.kotlinoverview.kotlin
 
 fun main() {
     val list = listOf("A", "B", "F", "X", "A", "F")

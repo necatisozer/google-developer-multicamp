@@ -1,4 +1,4 @@
-package com.necatisozer.multicamp.kotlinoverview
+package com.necatisozer.multicamp.kotlinoverview.kotlin
 
 fun main() {
     val necati: Person = Person("Necati", 25, "e")
