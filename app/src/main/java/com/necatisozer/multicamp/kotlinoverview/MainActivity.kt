@@ -2,7 +2,6 @@ package com.necatisozer.multicamp.kotlinoverview
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.isInvisible
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity(R.layout.activity_main) {
@@ -25,15 +24,14 @@ class MainActivity : AppCompatActivity(R.layout.activity_main) {
         }
          */
 
-        /*
+
         mainButton.setOnClickListener {
             val name = inputName.text
             if (name.isNotEmpty()) {
-                mainTextView.text = "Merhaba, $name"
+                mainTextView.text = getString(R.string.greeting_with_name, name)
             }
         }
 
-         */
 
         /*
         inputName.doOnTextChanged { text, start, before, count ->
@@ -46,9 +44,12 @@ class MainActivity : AppCompatActivity(R.layout.activity_main) {
 
          */
 
+        /*
         mainButton.setOnClickListener {
             imageView.isInvisible = !imageView.isInvisible
         }
+
+         */
 
     }
 }

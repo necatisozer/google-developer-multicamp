@@ -3,4 +3,18 @@
     <string name="greeting_text">Hello World</string>
     <string name="main_button">LovelyButton</string>
     <string name="button_action">Button clicked</string>
+    <string name="greeting_with_name">Hello, %s</string>
+    <string name="payment_title">Payment Screen</string>
+    <string name="cash_payment">Cash</string>
+    <string name="credit_card_payment">Credit Card</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_credit_cart_number">Credit Card Number</string>
+    <string name="hint_month">Month</string>
+    <string name="hint_year">Year</string>
+    <string name="hint_cvv">CVV</string>
+    <string name="agreement_text">I agree Terms and Conditions</string>
+    <string name="payment_button_text">Pay</string>
+    <string name="empty_field_error">This field should not be empty</string>
+    <string name="payment_success_message">Payment is successful!</string>
+    <string name="accept_terms_message">Please accept terms</string>
 </resources>

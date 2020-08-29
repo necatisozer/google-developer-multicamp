@@ -4,4 +4,18 @@
     <string name="greeting_text">Merhaba Dünya</string>
     <string name="main_button">HoşBirButon</string>
     <string name="button_action">Buton tıklandı</string>
+    <string name="greeting_with_name">Merhaba, %s</string>
+    <string name="payment_title">Ödeme Ekranı</string>
+    <string name="cash_payment">Nakit Ödeme</string>
+    <string name="credit_card_payment">Kredi Kartı</string>
+    <string name="hint_name">İsim</string>
+    <string name="hint_credit_cart_number">Kredi Kart No</string>
+    <string name="hint_month">Ay</string>
+    <string name="hint_year">Yıl</string>
+    <string name="hint_cvv">CVV</string>
+    <string name="agreement_text">Kullanım koşullarını kabul ediyorum</string>
+    <string name="payment_button_text">Ödeme Yap</string>
+    <string name="payment_success_message">Ödeme başarılı!</string>
+    <string name="empty_field_error">Bu alan boş olamaz</string>
+    <string name="accept_terms_message">Lütfen kullanım koşullarını onaylayın</string>
 </resources>
