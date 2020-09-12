@@ -17,4 +17,7 @@
     <string name="empty_field_error">This field should not be empty</string>
     <string name="payment_success_message">Payment is successful!</string>
     <string name="accept_terms_message">Please accept terms</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="login_button_text">Login</string>
 </resources>

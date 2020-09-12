@@ -18,4 +18,7 @@
     <string name="payment_success_message">Ödeme başarılı!</string>
     <string name="empty_field_error">Bu alan boş olamaz</string>
     <string name="accept_terms_message">Lütfen kullanım koşullarını onaylayın</string>
+    <string name="hint_username">Kullanıcı Adı</string>
+    <string name="hint_password">Parola</string>
+    <string name="login_button_text">Giriş Yap</string>
 </resources>

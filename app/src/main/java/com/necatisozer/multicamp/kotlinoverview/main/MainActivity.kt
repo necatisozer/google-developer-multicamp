@@ -1,7 +1,8 @@
-package com.necatisozer.multicamp.kotlinoverview
+package com.necatisozer.multicamp.kotlinoverview.main
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.necatisozer.multicamp.kotlinoverview.R
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity(R.layout.activity_main) {

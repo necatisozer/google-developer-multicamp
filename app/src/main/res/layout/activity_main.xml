@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:gravity="center|center_horizontal|center_vertical"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    tools:context=".main.MainActivity">
 
     <EditText
         android:id="@+id/inputName"
